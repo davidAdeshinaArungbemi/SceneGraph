@@ -20,7 +20,21 @@ SceneGraph can be utilized in various fields where real-time object tracking and
 - **Smart Cities** – Analyze pedestrian and vehicle interactions to improve urban planning.  
 - **Research & Behavioral Studies** – Study movement patterns and social interactions.  
 - **Sports Analytics** – Track player and object movements in games for performance analysis.  
-- **Healthcare & Assisted Living** – Monitor elderly or at-risk individuals for safety.  
+- **Healthcare & Assisted Living** – Monitor elderly or at-risk individuals for safety.
+
+## Installation
+
+### Prerequisites
+Ensure you have Python (>=3.8) installed. You can download it from [python.org](https://www.python.org/downloads/).
+
+### Install Dependencies
+Clone this repository and install the required dependencies:
+
+```sh
+git clone https://github.com/yourusername/SceneGraph.git
+cd SceneGraph
+pip install -r requirements.txt
+```
 
 ## License  
 This project is licensed under the **MIT License**. Users are free to use, modify, and distribute the project, but must include the original license and attribution. See the [LICENSE](LICENSE) file for more details.  
