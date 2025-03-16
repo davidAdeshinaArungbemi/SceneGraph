@@ -31,7 +31,7 @@ Ensure you have Python (>=3.8) installed. You can download it from [python.org](
 Clone this repository and install the required dependencies:
 
 ```sh
-git clone https://github.com/yourusername/SceneGraph.git
+git clone https://github.com/davidAdeshinaArungbemi/SceneGraph.git
 cd SceneGraph
 pip install -r requirements.txt
 ```
